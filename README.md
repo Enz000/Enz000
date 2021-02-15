@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Enz000
-- 👀 I’m interested in ...
+- 💬 don't by shy, let's talk ! 
 - 🌱 I’m currently learning and practice !
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ? 👉 @enzo.smr 
 
 <!---
 Enz000/Enz000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
